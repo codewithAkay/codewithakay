@@ -74,11 +74,7 @@ I'm Anas iqbal a Professional Full Stack Web Developer  Software Engineer. 🎨
 
 ## 🏆 Badges
 
-<div align="center">
-  <a href="/">
-    <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" 
-     alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
-  </a>
+
 
    <a href="/">
     <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" alt="image-1-removebg-preview" 
