@@ -1,7 +1,7 @@
 <!--
-- 👋 Hi, I’m @Saqib
-- 👀 I’m  Professional Full Stack Web Developer DevOps & Software Engineer.
-- 📫 How to reach me saqibahmad778866@gmail.com
+- 👋 Hi, I’m @Anas iqbal
+- 👀 I’m  Professional Full Stack Developer as a MERN stack Web Developer Software Engineer.
+- 📫 How to reach me Anasiqbal0009@gmail.com
 
 <!---
 Mostafa-Zewail77/Mostafa-Zewail77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
-I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. 🎨
+I'm Anas iqbal a Professional Full Stack Web Developer  Software Engineer. 🎨
 
  𝐈 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞 𝐢𝐧 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐚𝐧𝐝 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐥𝐨𝐠𝐢𝐜, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬. 𝐈 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐦𝐞𝐫𝐠𝐞 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐪𝐮𝐚𝐥𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦 𝐭𝐨 𝐚𝐜𝐡𝐢𝐞𝐯𝐞 𝐜𝐥𝐢𝐞𝐧𝐭 𝐨𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 𝐚𝐧𝐝 𝐟𝐨𝐬𝐭𝐞𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐬𝐮𝐜𝐜𝐞𝐬𝐬. 🚀
 <!-- <a href="https://mostafahassan.vercel.app/"><strong>Visit my personal website </strong></a> -->
@@ -75,27 +75,27 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. �
 ## 🏆 Badges
 
 <div align="center">
-  <a href="https://www.credly.com/badges/78d69f54-6212-46b6-9c2b-21d3562aba37">
+  <a href="/">
     <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" 
      alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
+ <a href="/">
     <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" 
      alt="cloud-native-devops-agile-nosql-essentials" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/aaea3ab8-2d1a-46c2-9177-2ea64a44d1a8">
+   <a href="/">
     <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" alt="image-1-removebg-preview" 
      alt="web-development-with-html-css-javascript-essentials" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
+   <a href="/">
     <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" 
      alt="Software Engineering Essentials" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
+ <a href="/">
     <img src="https://images.credly.com/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" 
      alt="intermediate-front-end-web-development" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
+   <a href="/">
     <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/f140819a-8c85-487f-8e5e-4a6a0c28de48" 
      alt="git-and-github" width="100" height="100">
   </a>
@@ -111,24 +111,24 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. �
 
 
  ## 🤝🏻 &nbsp;Let's Connect!
-If you're as passionate about web development or if you're looking for a Professional Full Stack Web Developer DevOps & Software Engineer, I'd be happy to connect with you. Feel free to reach out ! 🌐
+If you're as passionate about web development or if you're looking for a Professional Full Stack Web Developer  & Software Engineer, I'd be happy to connect with you. Feel free to reach out ! 🌐
 <div >
-<a href="https://www.linkedin.com/in/saqib-ahmad-7740b6253/" target="_blank">
+<a href="https://www.linkedin.com/in/anas-iqbal-496b70258/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-<a href="https://www.instagram.com/saqib_ahmad007/" target="_blank">
+<a href="https://www.linkedin.com/in/anas-iqbal-496b70258/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
-<a href="https://www.facebook.com/saqibahmad.rahi" target="_blank">
+<a href="https://www.linkedin.com/in/anas-iqbal-496b70258/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
-<a href="mailto:saqibahmad778866@gmail.com" target="_blank">
+<a href="mailto:Anasiqbal0009@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 <a href="https://www.fiverr.com/code_with_skay?public_mode=true" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiverr logo" />
 </a>
-<a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?s=1110580755107926016" target="_blank">
+<a href="/">
   <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo" />
 </a>
 
