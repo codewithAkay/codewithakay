@@ -79,10 +79,7 @@ I'm Anas iqbal a Professional Full Stack Web Developer  Software Engineer. 🎨
     <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" 
      alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
   </a>
- <a href="/">
-    <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" 
-     alt="cloud-native-devops-agile-nosql-essentials" width="100" height="100">
-  </a>
+
    <a href="/">
     <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" alt="image-1-removebg-preview" 
      alt="web-development-with-html-css-javascript-essentials" width="100" height="100">
