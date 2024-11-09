@@ -125,7 +125,7 @@ If you're as passionate about web development or if you're looking for a Profess
 <a href="mailto:Anasiqbal0009@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-<a href="https://www.fiverr.com/code_with_skay?public_mode=true" target="_blank">
+<a href="https://www.fiverr.com/anasiqbal04">
   <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiverr logo" />
 </a>
 <a href="/">
